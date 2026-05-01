@@ -2,9 +2,10 @@
 
 # 👩🏻‍💻 Ana Beatriz Feliciano
 
-**`Desenvolvedora FullStack`**
+**`Full Stack Developer`**
 
-Sou estudante de Ciência da Computação na Universidade Católica de Brasília, com foco em desenvolvimento front-end e grande interesse em criar interfaces intuitivas e visualmente agradáveis. Tenho experiência com HTML e CSS, além de interesse em expandir meus conhecimentos em back-end. Participei de um projeto de alfabetização digital para idosos, desenvolvendo comunicação e didática no ensino de tecnologia. Atualmente, sigo aprimorando minhas habilidades por meio da graduação e de projetos pessoais, sempre buscando crescer e contribuir na área de tecnologia.
+I am a Computer Science student at Universidade Católica de Brasília with a focus on front-end development and a strong interest in creating intuitive and visually appealing interfaces. I have experience with HTML and CSS, as well as an interest in expanding my knowledge in back-end development. I participated in a digital literacy project for older adults, where I developed communication and teaching skills while helping others learn technology. I am currently improving my skills through my degree and personal projects, always seeking to grow and contribute in the technology field.
+
 
 <!--⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹NERD⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹-->
 

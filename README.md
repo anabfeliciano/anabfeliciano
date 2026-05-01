@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=FFA500&reversal=false&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=#6959CD&reversal=false&section=header"/>
 
 # 👩🏻‍💻 Ana Beatriz Feliciano
 
@@ -66,4 +66,4 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFA500&reversal=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=#6959CD&reversal=false&section=footer"/>

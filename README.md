@@ -27,7 +27,7 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 
 <div align="center" width="100%">
   
-<a href="https://git.io/typing-sv"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=40&duration=5001&pause=1000&color=8444F7&width=550&height=100&lines=I+am+from+Brazil;I+am+a+computer+science+student;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-sv"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=7000&size=40&duration=500&pause=1000&color=8444F7&width=550&height=200&lines=I+am+from+Brazil;I+am+a+computer+science+student;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anabfeliciano&theme=jolly&hide_border=falso&border_radius=10&short_numbers=verdadeiro)](https://git.io/streak-stats)
 

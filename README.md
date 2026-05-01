@@ -68,4 +68,4 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6959CD&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=6959CD&section=footer"/>

@@ -26,6 +26,7 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 </div>
 
 <div align="center" width="100%">
+  
 <a href="https://git.io/typing-sv">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=25&duration=3000&pause=1000&color=8444F7&width=450&height=50&lines=I+am+from+Brazil;Computer+Science+Student;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG" />
 </a>
@@ -67,4 +68,4 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 
 <br>
 
-[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=#6959CD&reversal=false&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6959CD&section=footer"/>

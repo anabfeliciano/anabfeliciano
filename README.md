@@ -8,7 +8,7 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 
 <!--⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹NERD⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹-->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛧°。 ⋆༺♱༻⋆。 °⛧
+<div align="center" width="100%">v⛧°。 ⋆༺♱༻⋆。 °⛧</div>
 
 <div align="center">
   <img align="center" height="150" src="https://i.pinimg.com/originals/9e/79/0c/9e790c869a6939ad84d519c331cb86cb.gif" />

@@ -6,7 +6,6 @@
 
 I am a Computer Science student at Universidade Católica de Brasília with a focus on front-end development and a strong interest in creating intuitive and visually appealing interfaces. I have experience with HTML and CSS, as well as an interest in expanding my knowledge in back-end development. I participated in a digital literacy project for older adults, where I developed communication and teaching skills while helping others learn technology. I am currently improving my skills through my degree and personal projects, always seeking to grow and contribute in the technology field.
 
-
 <!--⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹NERD⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹-->
 
 <div align="center" width="100%">v⛧°。 ⋆༺♱༻⋆。 °⛧</div>
@@ -34,7 +33,16 @@ I am a Computer Science student at Universidade Católica de Brasília with a fo
   </a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anabfeliciano&theme=jolly&hide_border=falso&border_radius=10&short_numbers=verdadeiro)](https://git.io/streak-stats)
+<br>
+
+<div align="center">
+  <a href="https://github.com/anabfeliciano">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabfeliciano&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&cache_seconds=60" />
+  </a>
+  <a href="https://github.com/anabfeliciano">
+    <img height="180em" src="https://streak-stats.demolab.com?user=anabfeliciano&theme=jolly&hide_border=false&border_radius=10" />
+  </a>
+</div>
 
 <br>
 <br>
